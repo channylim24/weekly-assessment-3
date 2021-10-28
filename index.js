@@ -186,3 +186,6 @@ uncomment below to see the output`;
 // );
 
 // console.log(albusDumbledore.wizardInfos);
+
+`Phew.. finally we've finished creating classes for the Hogwarts Wizards. I hope this will help anyone who read this to have better understanding of OOP
+Thanks for the visit! :D`;
